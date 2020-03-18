@@ -1,0 +1,26 @@
+{
+    "status": false,
+    "total": 1,
+    "failed": 1,
+    "passed": 0,
+    "startTime": 1581652971346,
+    "duration": 1713,
+    "endTime": 1581652973059,
+    "suites": [
+        {
+            "describe": "Mul Function",
+            "file": "mul.test.js",
+            "test": [
+                {
+                    "fullName": "Mul Function given 6 and 2 returns 12",
+                    "title": "given 6 and 2 returns 12",
+                    "status": false
+                }
+            ],
+            "total": 1,
+            "passed": 0,
+            "failed": 1,
+            "status": false
+        }
+    ]
+}
