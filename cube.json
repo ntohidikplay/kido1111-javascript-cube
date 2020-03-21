@@ -8,8 +8,8 @@
     "current": {
         "path": "main.easy",
         "scenario": "main.easy",
-        "topic": "1.topic1",
-        "lesson": "2.lesson2",
+        "topic": "2.topic2",
+        "lesson": "1.lesson1",
         "cube": "javascript"
     },
     "scenarios": [
