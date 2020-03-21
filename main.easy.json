@@ -1,8 +1,8 @@
 {
     "path": "main.easy",
     "scenario": "main.easy",
-    "topic": "1.topic1",
-    "lesson": "2.lesson2",
+    "topic": "2.topic2",
+    "lesson": "1.lesson1",
     "type": "javascript",
     "tags": [
         "javascript",
@@ -11,16 +11,16 @@
     ],
     "time": 0,
     "complete": 0,
-    "modified": 0,
+    "modified": 1584778140434,
     "result": {
         "main.easy": {
             "1.topic1": {
                 "2.lesson2": {
-                    "status": "failed",
+                    "status": "passed",
                     "total": 2,
-                    "failed": 2,
-                    "passed": 0,
-                    "point": 0
+                    "failed": 0,
+                    "passed": 2,
+                    "point": 2000
                 }
             },
             "2.topic2": {
@@ -42,10 +42,10 @@
         }
     },
     "score": {
-        "status": "pending",
+        "status": false,
         "total": 4,
-        "failed": 4,
-        "passed": 0,
-        "point": 0
+        "failed": 2,
+        "passed": 2,
+        "point": 2000
     }
 }
