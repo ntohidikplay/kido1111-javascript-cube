@@ -10,26 +10,26 @@
         "math"
     ],
     "time": 0,
-    "complete": 0,
-    "modified": 0,
+    "complete": 1584773160640,
+    "modified": 1584773148106,
     "result": {
         "main.easy": {
             "1.topic1": {
                 "1.lesson1": {
-                    "status": "failed",
+                    "status": "passed",
                     "total": 3,
-                    "failed": 3,
-                    "passed": 0,
-                    "point": 0
+                    "failed": 0,
+                    "passed": 3,
+                    "point": 3000
                 }
             }
         }
     },
     "score": {
-        "status": "pending",
+        "status": "passed",
         "total": 3,
-        "failed": 3,
-        "passed": 0,
-        "point": 0
+        "failed": 0,
+        "passed": 3,
+        "point": 3000
     }
 }
