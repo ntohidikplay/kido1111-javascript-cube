@@ -6,10 +6,11 @@
         "math"
     ],
     "current": {
-        "path": "default",
+        "path": "main.easy",
         "scenario": "main.easy",
         "topic": "1.topic1",
-        "lesson": "1.lesson1"
+        "lesson": "2.lesson2",
+        "cube": "javascript"
     },
     "scenarios": [
         "default.index",
