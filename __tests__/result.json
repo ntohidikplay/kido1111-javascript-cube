@@ -1,11 +1,11 @@
 {
-    "status": false,
+    "status": true,
     "total": 3,
-    "failed": 3,
-    "passed": 0,
-    "startTime": 1581393180631,
-    "duration": 1608,
-    "endTime": 1581393182240,
+    "failed": 0,
+    "passed": 3,
+    "startTime": 1584773142127,
+    "duration": 980,
+    "endTime": 1584773143107,
     "suites": [
         {
             "describe": "Add Function",
@@ -14,23 +14,26 @@
                 {
                     "fullName": "Add Function given 2 and 5 returns 7",
                     "title": "given 2 and 5 returns 7",
-                    "status": false
+                    "status": true
                 },
                 {
                     "fullName": "Add Function given 0 and 5 returns 5",
                     "title": "given 0 and 5 returns 5",
-                    "status": false
+                    "status": true
                 },
                 {
                     "fullName": "Add Function given -3 and 5 returns 2",
                     "title": "given -3 and 5 returns 2",
-                    "status": false
+                    "status": true
                 }
             ],
             "total": 3,
-            "passed": 0,
-            "failed": 3,
-            "status": false
+            "passed": 3,
+            "failed": 0,
+            "status": true
         }
-    ]
+    ],
+    "branch": "1.topic1/1.lesson1",
+    "topic": "1.topic1",
+    "lesson": "1.lesson1"
 }
