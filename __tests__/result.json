@@ -3,9 +3,9 @@
     "total": 2,
     "failed": 2,
     "passed": 0,
-    "startTime": 1581653023590,
-    "duration": 1579,
-    "endTime": 1581653025169,
+    "startTime": 1584778097876,
+    "duration": 1144,
+    "endTime": 1584778099020,
     "suites": [
         {
             "describe": "Sub Function",
